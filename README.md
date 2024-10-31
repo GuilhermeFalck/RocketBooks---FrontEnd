@@ -1,3 +1,3 @@
 # RocketBooks
 
-Aplicativo para adicionar livros nos perfis dos usuários
+Aplicativo para adicionar notas para livros nos perfis dos usuários
