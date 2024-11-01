@@ -7,7 +7,7 @@ import { Container, Brand, Menu, Search, Content, NewNote } from "./styles";
 
 import { ButtonText } from "../../components/ButtonText";
 import { Section } from "../../components/Section";
-import { Header } from "../../components/header";
+import { Header } from "../../components/Header";
 import { Input } from "../../components/Input";
 import { Note } from "../../components/Note";
 
